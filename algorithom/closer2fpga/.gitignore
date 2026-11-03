@@ -1,0 +1,21 @@
+# Visual Studio state and generated binaries.
+.vs/
+**/x64/
+**/Debug/
+**/Release/
+*.vcxproj.user
+
+# Generated test/inspection artifacts.
+tests/build/
+**/corner_results/
+/exports/
+
+# ModelSim / RTL simulation artifacts (M1+).
+work/
+**/work/
+**/work_*/
+transcript
+*.wlf
+vsim.wlf
+*.vstf
+modelsim.ini

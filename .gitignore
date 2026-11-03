@@ -1,0 +1,5 @@
+# Visual Studio local caches and user settings
+.vs/
+*.ipch
+*.suo
+*.vcxproj.user
